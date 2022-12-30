@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7d825f0-2fdb-4588-9f9f-7104fb7c63c8": {
+      "ProjectGuid": "c7d825f0-2fdb-4588-9f9f-7104fb7c63c8",
+      "DisplayName": "CharacterApi",
+      "ColorIndex": 0
+    },
+    "4b803f31-575d-47bc-a502-e6153d881a2c": {
+      "ProjectGuid": "4b803f31-575d-47bc-a502-e6153d881a2c",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "5d2cee3e-d440-4136-90c2-2691b5e6996a": {
+      "ProjectGuid": "5d2cee3e-d440-4136-90c2-2691b5e6996a",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "ffd446ae-7a0b-4de2-97c8-69c565b9c1b4": {
+      "ProjectGuid": "ffd446ae-7a0b-4de2-97c8-69c565b9c1b4",
+      "DisplayName": "Infrasctuture.Service",
+      "ColorIndex": 3
+    },
+    "4b0df6a6-c047-488f-ae23-39c5adc28423": {
+      "ProjectGuid": "4b0df6a6-c047-488f-ae23-39c5adc28423",
+      "DisplayName": "Infrastructure.Application",
+      "ColorIndex": 4
+    },
+    "a5728546-58ae-4051-95fb-e4add198240f": {
+      "ProjectGuid": "a5728546-58ae-4051-95fb-e4add198240f",
+      "DisplayName": "Infrastructure.Data",
+      "ColorIndex": 5
+    },
+    "53dbb3fb-8ca0-414f-8ae3-3cd8b865fc1e": {
+      "ProjectGuid": "53dbb3fb-8ca0-414f-8ae3-3cd8b865fc1e",
+      "DisplayName": "UnitTest",
+      "ColorIndex": 6
+    },
+    "6a7504b8-ba81-4b2e-b796-8286211a281c": {
+      "ProjectGuid": "6a7504b8-ba81-4b2e-b796-8286211a281c",
+      "DisplayName": "Domain",
+      "ColorIndex": 7
+    },
+    "50e66300-7cde-46e5-b222-3fc4b3535fa1": {
+      "ProjectGuid": "50e66300-7cde-46e5-b222-3fc4b3535fa1",
+      "DisplayName": "CharacterApi",
+      "ColorIndex": 8
+    },
+    "de1bb6e8-22ba-416a-855b-beebd7d7f5e3": {
+      "ProjectGuid": "de1bb6e8-22ba-416a-855b-beebd7d7f5e3",
+      "DisplayName": "Infrastructure.Application",
+      "ColorIndex": 9
+    },
+    "63a97560-eb6d-4fec-b7f3-3495848a231d": {
+      "ProjectGuid": "63a97560-eb6d-4fec-b7f3-3495848a231d",
+      "DisplayName": "Infrastructure.Data",
+      "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "aa118c66-451e-473b-90fe-0f28e75f7862": {
+      "ProjectGuid": "aa118c66-451e-473b-90fe-0f28e75f7862",
+      "DisplayName": "Tests",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

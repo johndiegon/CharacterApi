@@ -1,0 +1,12 @@
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.deps.json
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.dll
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\bin\Debug\net6.0\ref\Infrastructure.Data.dll
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\bin\Debug\net6.0\Infrastructure.Data.pdb
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.AssemblyReference.cache
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.AssemblyInfo.cs
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.dll
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\ref\Infrastructure.Data.dll
+C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Data\obj\Debug\net6.0\Infrastructure.Data.pdb

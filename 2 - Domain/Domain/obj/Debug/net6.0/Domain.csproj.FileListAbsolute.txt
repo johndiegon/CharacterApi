@@ -1,0 +1,28 @@
+C:\repos\IaraLibraries\src\CharacterApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\repos\IaraLibraries\src\CharacterApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Domain.pdb
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.pdb
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Infrastructure.Application.dll
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Infrastructure.Data.dll
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Infrastructure.Application.pdb
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\bin\Debug\net6.0\Infrastructure.Data.pdb
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\repos\IaraLibraries\src\CharacterApi\2 - Domain\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
