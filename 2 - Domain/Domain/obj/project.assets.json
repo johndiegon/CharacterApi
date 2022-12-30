@@ -1017,11 +1017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
+      "projectPath": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\john.fernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\obj\\",
+      "outputPath": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\john.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1040,11 +1040,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj": {
-              "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj"
+            "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj": {
+              "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj"
             },
-            "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-              "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj"
+            "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+              "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj"
             }
           }
         }

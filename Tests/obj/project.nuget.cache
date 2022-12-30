@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXeymz4W+YFR9px1d40WQ/sWpEnTXX1Kaoqg6jfo7Wr1y/2WzSCQ3ElD0kW20JTllarw46xgczzcoNI7Sb+7Hw==",
+  "dgSpecHash": "ATzKeApdPotHBcG7rqbiFcWhOpJfIFW9hYzw28XyV6X++QCXv5AJ7gOWpEjHDM2xHFBWS1ImNDbgUm0aJHshzQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\repos\\CharacterApi\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\john.fernandes\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\john.fernandes\\.nuget\\packages\\automapper.collection\\9.0.0\\automapper.collection.9.0.0.nupkg.sha512",

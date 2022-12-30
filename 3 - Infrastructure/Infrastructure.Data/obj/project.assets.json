@@ -400,11 +400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
+      "projectUniqueName": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
       "projectName": "Infrastructure.Data",
-      "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
+      "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\john.fernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\obj\\",
+      "outputPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\john.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",

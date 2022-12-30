@@ -10,3 +10,15 @@ C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Applic
 C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.dll
 C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\ref\Infrastructure.Application.dll
 C:\repos\IaraLibraries\src\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.pdb
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\bin\Debug\net6.0\Infrastructure.Application.deps.json
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\bin\Debug\net6.0\Infrastructure.Application.dll
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\bin\Debug\net6.0\ref\Infrastructure.Application.dll
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\bin\Debug\net6.0\Infrastructure.Application.pdb
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.csproj.AssemblyReference.cache
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.AssemblyInfoInputs.cache
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.AssemblyInfo.cs
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.csproj.CoreCompileInputs.cache
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.dll
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\ref\Infrastructure.Application.dll
+C:\repos\CharacterApi\3 - Infrastructure\Infrastructure.Application\obj\Debug\net6.0\Infrastructure.Application.pdb

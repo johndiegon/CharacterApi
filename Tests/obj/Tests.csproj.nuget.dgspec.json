@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\IaraLibraries\\src\\CharacterApi\\Tests\\Tests.csproj": {}
+    "C:\\repos\\CharacterApi\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj": {
+    "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
+        "projectPath": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\john.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\obj\\",
+        "outputPath": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\john.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,11 +30,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj": {
-                "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj"
+              "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj": {
+                "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj"
               },
-              "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-                "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj"
+              "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+                "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj": {
+    "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj",
+        "projectUniqueName": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj",
         "projectName": "Infrastructure.Application",
-        "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj",
+        "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\Infrastructure.Application.csproj",
         "packagesPath": "C:\\Users\\john.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\obj\\",
+        "outputPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\john.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+    "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
         "projectName": "Infrastructure.Data",
-        "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
+        "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\john.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\obj\\",
+        "outputPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\john.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\repos\\IaraLibraries\\src\\CharacterApi\\Tests\\Tests.csproj": {
+    "C:\\repos\\CharacterApi\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\repos\\CharacterApi\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\Tests\\Tests.csproj",
+        "projectPath": "C:\\repos\\CharacterApi\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\john.fernandes\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\Tests\\obj\\",
+        "outputPath": "C:\\repos\\CharacterApi\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\john.fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -237,11 +237,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj"
+              "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\repos\\CharacterApi\\2 - Domain\\Domain\\Domain.csproj"
               },
-              "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-                "projectPath": "C:\\repos\\IaraLibraries\\src\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj"
+              "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+                "projectPath": "C:\\repos\\CharacterApi\\3 - Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj"
               }
             }
           }
