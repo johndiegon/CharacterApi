@@ -4,7 +4,7 @@
 ## Descrição 
   Esse projeto consiste em uma api que gerencia o cadastro e batalhas entre personagens.
 
-<h4 align="center"> 
+<h4 align="left"> 
 	🚧  Api CharacterApi 🚀 Em construção...  🚧
 </h4>
 
