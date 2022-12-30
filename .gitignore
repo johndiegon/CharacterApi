@@ -407,3 +407,5 @@ Tests/obj/Debug/net6.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
 Tests/obj/project.assets.json
 Tests/obj/project.nuget.cache
 Tests/obj/Tests.csproj.nuget.dgspec.json
+.vs/CharacterApi/v17/.suo
+.vs/CharacterApi/v17/TestStore/0/007.testlog
