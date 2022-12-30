@@ -4,6 +4,10 @@
 ## Descrição 
   Esse projeto consiste em uma api que gerencia o cadastro e batalhas entre personagens.
 
+<h4 align="center"> 
+	🚧  Api CharacterApi 🚀 Em construção...  🚧
+</h4>
+
 ### Features
 
 - [x] Cadastro de personagens
@@ -12,6 +16,7 @@
 - [ ] Paginação da lista de personagens
 - [x] Detalhe do personsagem 
 - [x] Batalha entre personsagens
+- [ ] Cobertura de testes unitários
 
 ## Endpoints 
 Segue a lista de endpoints construido nessa api para gerenciar os cadastros e a batalha entre os personagens.
