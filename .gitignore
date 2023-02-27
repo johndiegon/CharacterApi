@@ -410,3 +410,26 @@ Tests/obj/Tests.csproj.nuget.dgspec.json
 .vs/CharacterApi/v17/.suo
 .vs/CharacterApi/v17/TestStore/0/007.testlog
 *.testlog
+.vs/CharacterApi/DesignTimeBuild/.dtbcache.v2
+.vs/CharacterApi/v17/.suo
+2 - Domain/Domain/obj/Debug/net6.0/Domain.assets.cache
+2 - Domain/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+2 - Domain/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+2 - Domain/Domain/obj/Domain.csproj.nuget.dgspec.json
+2 - Domain/Domain/obj/Domain.csproj.nuget.g.props
+2 - Domain/Domain/obj/project.assets.json
+2 - Domain/Domain/obj/project.nuget.cache
+3 - Infrastructure/Infrastructure.Application/obj/Debug/net6.0/Infrastructure.Application.assets.cache
+3 - Infrastructure/Infrastructure.Application/obj/Debug/net6.0/Infrastructure.Application.csproj.AssemblyReference.cache
+3 - Infrastructure/Infrastructure.Application/obj/Debug/net6.0/Infrastructure.Application.GeneratedMSBuildEditorConfig.editorconfig
+3 - Infrastructure/Infrastructure.Application/obj/Infrastructure.Application.csproj.nuget.dgspec.json
+3 - Infrastructure/Infrastructure.Application/obj/Infrastructure.Application.csproj.nuget.g.props
+3 - Infrastructure/Infrastructure.Application/obj/project.assets.json
+3 - Infrastructure/Infrastructure.Application/obj/project.nuget.cache
+3 - Infrastructure/Infrastructure.Data/obj/Debug/net6.0/Infrastructure.Data.assets.cache
+3 - Infrastructure/Infrastructure.Data/obj/Debug/net6.0/Infrastructure.Data.csproj.AssemblyReference.cache
+3 - Infrastructure/Infrastructure.Data/obj/Debug/net6.0/Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+3 - Infrastructure/Infrastructure.Data/obj/Infrastructure.Data.csproj.nuget.dgspec.json
+3 - Infrastructure/Infrastructure.Data/obj/Infrastructure.Data.csproj.nuget.g.props
+3 - Infrastructure/Infrastructure.Data/obj/project.assets.json
+3 - Infrastructure/Infrastructure.Data/obj/project.nuget.cache
